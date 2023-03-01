@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Namelist.xlsx
+Key.xlsx
+Key.json
